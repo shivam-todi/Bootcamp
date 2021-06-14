@@ -1,0 +1,1 @@
+java GameOfLife.java < input.txt
