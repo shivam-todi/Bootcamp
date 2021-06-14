@@ -48,6 +48,7 @@ public class GameOfLife {
         }
         for (int test=1;test<=T;test++)
         {
+            System.out.println();
             System.out.println("Generation #" + test);
             int[][] nextGen = new int[N][M];
             
